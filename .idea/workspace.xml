@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4282aaa-a1be-42f6-9b30-04803db41eba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/config/VNPayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/config/VNPayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/dto/response/MusicResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/dto/response/MusicResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/dto/response/PurchaseResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/entity/MusicEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/entity/MusicEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/entity/PurchaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/mapper/MusicMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/mapper/MusicMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/mapper/PurchaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/repository/MusicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/repository/MusicRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/IPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/IPaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/impl/MusicServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/impl/MusicServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pbl6/music/util/VNPayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pbl6/music/util/VNPayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V0__Initdb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V0__Initdb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/config/VNPayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/dto/response/MusicResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/dto/response/MusicResponseDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/dto/response/PurchaseResponseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/MusicEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/MusicEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/PurchaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/UserEntity$UserEntityBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/UserEntity$UserEntityBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/entity/UserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/MusicMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/MusicMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/MusicMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/MusicMapperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/PurchaseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/mapper/PurchaseMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/repository/MusicRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/repository/MusicRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/service/IPaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/service/impl/MusicServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pbl6/music/service/impl/MusicServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pbl6/music/util/VNPayUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V0__Initdb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V0__Initdb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1__Insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V1__Insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/CategoryMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/CategoryMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/MusicMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/MusicMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/PurchaseMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/pbl6/music/mapper/UserMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/js/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/js/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/js/user_profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/js/user_profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/payment-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/payment-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/user-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/user-profile.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="com.intellij.jpb.FlywayMigrationScript" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TrungNhan26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BinBin264/music_generation_web&quot;,
+    &quot;accountId&quot;: &quot;f3abdff7-15bc-4e7d-ab0b-eee223ef4d7b&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nmDUVvFShJbgn72hJ811TG6fgn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.UpdatePasswordWithEncryption.executor&quot;: &quot;Run&quot;,
+    &quot;Application.encode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zuizui (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.zuizui (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.zuizui.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TechlearnApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive - The University of Technology/Desktop/New folder/music_generation_web/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\OneDrive - The University of Technology\Desktop\pbl6\PBL6_BE1\.jpb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\OneDrive - The University of Technology\Desktop\pbl6\PBL6_BE1\src\main\resources\static\music\" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.pbl6.music.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TechlearnApplication">
+    <configuration name="UpdatePasswordWithEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpdatePasswordWithEncryption" />
+      <module name="PBL6_BE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbl6.music.service.impl.encode" />
+      <module name="PBL6_BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pbl6.music.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zuizui (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbl6.music.controller.zuizui" />
+      <module name="PBL6_BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pbl6.music.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zuizui (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbl6.music.controller.zuizui" />
+      <module name="PBL6_BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pbl6.music.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zuizui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pbl6.music.controller.zuizui" />
+      <module name="PBL6_BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pbl6.music.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechlearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="PBL6_BE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pbl6.music.TechlearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.encode" />
+        <item itemvalue="Application.UpdatePasswordWithEncryption" />
+        <item itemvalue="Application.zuizui (2)" />
+        <item itemvalue="Application.zuizui (1)" />
+        <item itemvalue="Application.zuizui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4282aaa-a1be-42f6-9b30-04803db41eba" name="Changes" comment="" />
+      <created>1729569374990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729569374990</updated>
+      <workItem from="1729569376779" duration="16857000" />
+      <workItem from="1729622220215" duration="4000" />
+      <workItem from="1729657326043" duration="13588000" />
+      <workItem from="1729736289242" duration="115000" />
+      <workItem from="1729736575513" duration="6260000" />
+      <workItem from="1729757960768" duration="10008000" />
+      <workItem from="1729791149332" duration="8750000" />
+      <workItem from="1729826801533" duration="8291000" />
+      <workItem from="1729997820502" duration="17748000" />
+      <workItem from="1730209907961" duration="24441000" />
+      <workItem from="1730342946696" duration="5844000" />
+      <workItem from="1730571383504" duration="3607000" />
+      <workItem from="1730637410327" duration="9372000" />
+      <workItem from="1730693865073" duration="1803000" />
+      <workItem from="1730790180224" duration="1668000" />
+      <workItem from="1730961060537" duration="5789000" />
+      <workItem from="1731074417413" duration="8075000" />
+      <workItem from="1731199308693" duration="48117000" />
+      <workItem from="1731381324029" duration="35303000" />
+      <workItem from="1731638303036" duration="3917000" />
+      <workItem from="1731657990588" duration="226000" />
+      <workItem from="1731658433961" duration="20471000" />
+      <workItem from="1732207321603" duration="3976000" />
+      <workItem from="1732988139160" duration="8099000" />
+      <workItem from="1733065956276" duration="1364000" />
+      <workItem from="1733220247816" duration="1873000" />
+      <workItem from="1733233238376" duration="1266000" />
+      <workItem from="1733254866601" duration="94000" />
+      <workItem from="1733256718677" duration="627000" />
+      <workItem from="1733278933364" duration="655000" />
+      <workItem from="1733639293031" duration="1547000" />
+      <workItem from="1733684981424" duration="3090000" />
+      <workItem from="1734292075102" duration="817000" />
+      <workItem from="1736777415311" duration="8231000" />
+      <workItem from="1736864495869" duration="6350000" />
+      <workItem from="1737124405212" duration="16354000" />
+      <workItem from="1737381628613" duration="4810000" />
+      <workItem from="1737392615991" duration="1005000" />
+      <workItem from="1737423061388" duration="1049000" />
+      <workItem from="1737429917896" duration="4673000" />
+      <workItem from="1737563081543" duration="759000" />
+      <workItem from="1737594038218" duration="12361000" />
+      <workItem from="1738556147779" duration="1072000" />
+      <workItem from="1738557572818" duration="15377000" />
+      <workItem from="1738751204844" duration="688000" />
+      <workItem from="1738934054342" duration="9429000" />
+      <workItem from="1739000571486" duration="1883000" />
+      <workItem from="1739005831141" duration="1785000" />
+      <workItem from="1739016753772" duration="1733000" />
+      <workItem from="1739084438312" duration="2351000" />
+      <workItem from="1739147528213" duration="1898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
