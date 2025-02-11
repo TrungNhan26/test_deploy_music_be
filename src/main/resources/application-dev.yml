@@ -4,7 +4,7 @@ server:
 spring:
   config:
     activate:
-      on-profile: dev
+      on-profile: ${SPRING_PROFILES_ACTIVE:dev}
   datasource:
     url: jdbc:mysql://${DATABASE_HOST:localhost}:${DATABASE_PORT:3306}/PBL6
     username: ${DATABASE_USER:root}
