@@ -22,7 +22,7 @@ import java.util.Optional;
 @RequiredArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
 @RequestMapping("/api/user")
-@CrossOrigin(origins = "http://127.0.0.1:5501")
+@CrossOrigin(origins = "*")
 public class UserController {
 
     IUserService userService;
