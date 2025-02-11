@@ -12,11 +12,11 @@ RUN mvn clean package -DskipTests
 FROM openjdk:17-jdk-slim
 WORKDIR /app
 
-# Copy file build từ giai đoạn trước vào container
-COPY --from=build /app/target/MyApp-1.0.jar myapp.jar
+# Copy file .jar đã build từ giai đoạn trước vào container
+COPY --from=build /app/target/PBL6_BE-0.0.1-SNAPSHOT.jar app.jar
 
-# Mở cổng 8080
+# Mở cổng 8181
 EXPOSE 8181
 
 # Chạy ứng dụng
-ENTRYPOINT ["java","-jar","myapp.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
