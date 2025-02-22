@@ -1,5 +1,6 @@
 server:
   port: 8181
+  address: 0.0.0.0  # Thêm dòng này để ứng dụng có thể nhận request từ bên ngoài
 
 spring:
   config:
